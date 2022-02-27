@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\zzy\source\repos\Project2\Project2\源.cpp(65): warning C4715: “getbsum”: 不是所有的控件路径都返回值
+  Project2.vcxproj -> C:\Users\zzy\source\repos\Project2\Debug\Project2.exe
